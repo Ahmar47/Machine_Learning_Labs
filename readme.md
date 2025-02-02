@@ -1,1 +1,1 @@
-this is Lab1  on regression problem.
+all Labs on Traditional_Machine_Learning_Algo
